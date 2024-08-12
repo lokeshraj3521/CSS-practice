@@ -1,0 +1,21 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    border-style:solid;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: burlywood;
+}
+
+p{
+    border-bottom: solid;
+    border-top: red 3px dotted;
+    border-left: black;
+    border-radius: 12px;
+}
+
+.all{
+    font-size: 30px;
+}

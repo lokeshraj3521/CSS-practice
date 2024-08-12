@@ -1,0 +1,20 @@
+body{
+    background-color: black ;
+}
+
+h1{
+    color: blueviolet;
+}
+
+p{
+    color: crimson;
+    
+}
+
+#p2{
+    color: yellow;
+}
+
+.odd{
+    color: coral;
+}

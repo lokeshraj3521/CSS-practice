@@ -1,0 +1,19 @@
+body{
+    background-color: #17784f;
+}
+
+#p1{
+    color: aquamarine;
+}
+
+#p2{
+    color: rgb(146, 220, 163);
+}
+
+#p3{
+    color: rgb(102, 144, 185);
+}
+
+#p4{
+    color: hsl(0, 62%, 51%);
+}
